@@ -61,7 +61,7 @@ catalogue:
     image:
         repo: weaveworksdemos/catalogue
         tag: 0.3.5
-    containerPort: 80
+    containerPort: 8080
     resources:
         limits:
             cpu: 100m
